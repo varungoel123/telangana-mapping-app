@@ -1,0 +1,11 @@
+code,description
+dt_num,no of deep tubewells
+dt_area,area under deep tube wells (in ha)
+dug_num,no of dug wells
+dug_area,area under dug wells (in ha)
+sfs_num,no of surface flow schemes
+sfs_area,area under surface flow schemes (in ha)
+sls_num,no of surface lift schemes
+sls_area,area under surface lift schemes (in ha)
+st_num,no of shallow tubewells
+st_area,area under shallow tube wells (in ha)
