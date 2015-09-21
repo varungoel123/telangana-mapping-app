@@ -1,8 +1,0 @@
-code,description
-noh_individual ,Number of Operational Holdings Operated By individuals
-auh_individual ,Area Operated (in Ha.) By Individuals
-noh_joint ,Number of Operational Holdings Jointly Operated
-auh_joint ,Area Operated (in Ha.) Jointly
-noh_total ,Number of Operational Holdings(individual + joint)
-auh_total,Total Area Operated (in Ha.) (individual + joint)
-no_tehsils,Number of Tehsils in the district

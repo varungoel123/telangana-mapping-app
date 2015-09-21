@@ -1,9 +1,0 @@
-code,description
-geo_area,Total Geographical area (in ha.)
-very_dense,Very dense forest (in ha.)
-mode_dense,Moderate dense forest (in ha.)
-open,Open Forests (in ha.)
-total_forest,Total Forest area (in ha.)
-p_ga,Proportion of Forests to Geographical Area (%)
-change,Change in the Forest Cover to year 2011 (in ha.)
-scrub,Scrubs in ha. (Degraded forest lands with canopy density less than 10  percent) 
