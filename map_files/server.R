@@ -25,18 +25,15 @@ tablist <- read.csv("./data/dataset_lookup.csv",stringsAsFactors = F)
 #names(varlist) <- tablist$table_var
 
 ## Postgresql database details
-pw <- "resra@!$3"
-dbname = "appdev_db"
-host = "139.162.17.147"
-username = "postgres"
+source("./db_details.R")
 # loads the PostgreSQL driver
 drv <- dbDriver("PostgreSQL")
 
 # load shapefile in R workspace
-distshp <- readShapePoly("./data/dist_map_app.shp",
+distshp <- readShapePoly("./data/telangana_dist2011.shp",
                          proj4string = CRS("+proj=longlat +datum=WGS84 +no_defs +ellps=WGS84 +towgs84=0,0,0"))
-state_line <- readShapeLines("./data/state_line_map.shp",
-                             proj4string = CRS("+proj=longlat +datum=WGS84 +no_defs +ellps=WGS84 +towgs84=0,0,0"))
+#state_line <- readShapeLines("./data/state_line_map.shp",
+#                             proj4string = CRS("+proj=longlat +datum=WGS84 +no_defs +ellps=WGS84 +towgs84=0,0,0"))
 
 
 shinyServer(function(input, output, session) {
@@ -269,7 +266,7 @@ shinyServer(function(input, output, session) {
     #       
     colcode <- findColours(class, plotclr)
     plot(distshp,xlim = distshp@bbox[1,], ylim = distshp@bbox[2,],col=alpha(colcode,1), border="black",lwd=0.001)
-    plot(state_line,col="black",lwd=2, add=TRUE)
+    #plot(state_line,col="black",lwd=2, add=TRUE)
     title(main=input$table_var, 
           sub=input$table_name)
     
