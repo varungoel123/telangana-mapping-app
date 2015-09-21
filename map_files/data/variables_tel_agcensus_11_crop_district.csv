@@ -1,0 +1,5 @@
+code,description
+crop_noh,Total Number of Operational Holdings Under Crops
+irrigated_area,Irrigated Area (in Ha.) Under Crop(s)
+unirrigated_area,Unirrigated Area (in Ha.) Under Crop(s)
+total_area,Total Area Operated (in Ha.) Under Crop(s)

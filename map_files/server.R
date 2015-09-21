@@ -26,6 +26,7 @@ tablist <- read.csv("./data/dataset_lookup.csv",stringsAsFactors = F)
 
 ## Postgresql database details
 source("./db_details.R")
+
 # loads the PostgreSQL driver
 drv <- dbDriver("PostgreSQL")
 
@@ -34,7 +35,7 @@ distshp <- readShapePoly("./data/telangana_dist2011.shp",
                          proj4string = CRS("+proj=longlat +datum=WGS84 +no_defs +ellps=WGS84 +towgs84=0,0,0"))
 #state_line <- readShapeLines("./data/state_line_map.shp",
 #                             proj4string = CRS("+proj=longlat +datum=WGS84 +no_defs +ellps=WGS84 +towgs84=0,0,0"))
-
+#print(names(tablist))
 
 shinyServer(function(input, output, session) {
   
@@ -42,7 +43,7 @@ shinyServer(function(input, output, session) {
   output$choose_dataset <- renderUI({
     if(!is.null(tablist)){
       
-      #print(tablist)
+      print(tablist)
       selectizeInput("table_name",
                      label = "Choose DataSet",
                      choices = tablist$description,
@@ -75,7 +76,7 @@ shinyServer(function(input, output, session) {
     varlist <- dbGetQuery(con, cust_query1,stringsAsFactors=T) %>% filter(
       level_code!="state_code")
     dbDisconnect(con)
-    #print(varlist[1,])
+    print(varlist[1,])
     return(varlist)
   })
   
@@ -98,8 +99,8 @@ shinyServer(function(input, output, session) {
   #   #     }
   #   #   })
   #   
-  #   #### another way
-  #   
+#   #   #### another way
+#   #   
   output$choose_hierarchy <- renderUI({
     if(is.null(read_hierarchy())) return(NULL)
     # print(read_hierarchy()[1,])
@@ -151,7 +152,7 @@ shinyServer(function(input, output, session) {
                    multiple = FALSE,
                    options = NULL)
   })
-  #   
+#   #   
   output_query <- reactive({
     if(is.null(input$table_name)) return(NULL)
     if(is.null(input$table_var)) return(NULL)
@@ -186,6 +187,7 @@ shinyServer(function(input, output, session) {
       ext_query <- paste0(" where ",paste0(wherestr,collapse = " AND "))
       output_string <- paste0(main_query,ext_query)
     }
+    #print(output_string)
     return(output_string)
   })
   #   
@@ -207,7 +209,7 @@ shinyServer(function(input, output, session) {
                  max = 5,
                  step=1)
   })
-  
+#   
   output$break_type <- renderUI({
     #input$goButton
     # isolate({
@@ -220,7 +222,7 @@ shinyServer(function(input, output, session) {
     # })
     
   }) 
-  
+#   
   output$choose_col <- renderUI({
     selectizeInput("col_type",
                    label = "Choose color scheme",
@@ -230,7 +232,7 @@ shinyServer(function(input, output, session) {
                    options = NULL
     ) 
   })
-  
+#   
   plotmap <- function(){
     if(is.null(input$table_name)) return()
     if(is.null(input$table_var)) return()
@@ -241,7 +243,7 @@ shinyServer(function(input, output, session) {
     
     
     a<-dbGetQuery(con, output_query(),stringsAsFactors=T)
-    # print(a)
+    print(a)
     #       dbDisconnect(con)
     #       
     #       
@@ -336,19 +338,3 @@ shinyServer(function(input, output, session) {
 # http://shiny.rstudio.com
 #
 
-library(shiny)
-
-shinyServer(function(input, output) {
-
-  output$distPlot <- renderPlot({
-
-    # generate bins based on input$bins from ui.R
-    x    <- faithful[, 2]
-    bins <- seq(min(x), max(x), length.out = input$bins + 1)
-
-    # draw the histogram with the specified number of bins
-    hist(x, breaks = bins, col = 'darkgray', border = 'white')
-
-  })
-
-})

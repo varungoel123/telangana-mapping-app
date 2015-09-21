@@ -7,7 +7,7 @@ shinyUI(fluidPage(
              uiOutput("choose_dataset"),
              uiOutput("choose_var"),
              uiOutput("choose_hierarchy")
-             #uiOutput("samptext")
+            # uiOutput("samptext")
            ),
            fluidRow(
              column(12,

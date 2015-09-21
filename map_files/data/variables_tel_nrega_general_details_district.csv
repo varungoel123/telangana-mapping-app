@@ -1,0 +1,52 @@
+code,description
+hhs_app_job,Total households applied for job
+job_cards_issued,Total job cards issued
+job_cards_sc,Total job cards  SC 
+job_cards_st,Total job cards  ST 
+job_cards_others,Total job cards  non SC ST 
+hhs_dd_work,Total households demanded work
+persons_dd_work,Total persons demanded work
+hhs_allot_work,Total households allotted work
+persons_allot_work,Total persons allotted work
+muster_roll_filled,Total muster rolls filled
+hhs_worked,Total households worked
+persons_worked,Total persons worked
+hhs_100_day_reach,Total households reached 100 day
+persons_disability,Total persons with disability
+hhs_worked_others,Total households worked  non SC 
+person_days_others,Total person days worked  non SC
+hhs_worked_sc,Total SC households worked
+person_days_sc,Total person days worked by SCs
+hhs_worked_st,Total ST households worked
+person_days_st,Total person days worked by STs
+iay_hhs,Total land reform IAY households
+person_days_women,Total person days worked by women
+total_person_days,Total person days
+sc_hhs_over_100_day,Total SC households over 100 day
+st_hhs_over_100_day,Total ST households over 100 day
+year,year
+tot_bank_accounts,Total bank accounts
+ind_banl_ac,Total individual bank accounts
+joint_bank_ac,Total joint bank accounts
+amt_disbursed_to_bank_ac,Amount disbursed to bank accounts
+tot_post_of_ac,Total post office accounts
+tot_ind_post_off_ac,Total individual post office accounts
+tot_joint_post_off_ac,Total joint post office accounts
+amt_disburse_post_office_ac,Amount disbursed to post office accounts
+a18_30_years,nrega workers who are of 18 to 30 years
+a30_40_years,nrega workers who are of 30 to 40 years
+a40_50_years,nrega workers who are of 40 to 50 years
+a50_60_years,nrega workers who are of 50 to 60 years
+gr_60,nrega workers who are of greater than 60 years
+b1__10_person_pd,no of households having the person days of 1 to 10
+b10_20_person_pd,no of households having the person days of 10 to 20
+b20_30_pd,no of households having the person days of 20 to 30
+b30_40_pd,no of households having the person days of 30 to 40
+b40_50_pd,no of households having the person days of 40 to 50
+b50_60_pd,no of households having the person days of 50 to 60
+b60_70_pd,no of households having the person days of 60 to 70
+b70_80_pd,no of households having the person days of 70 to 80
+b80_99_pd,no of households having the person days of 80 to 99
+b100_pd,no of households having the person days having 100 days
+bge_100_pd,no of households having the person days  >100
+bge_140_pd,no of households having the person days  >140

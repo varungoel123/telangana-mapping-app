@@ -1,0 +1,101 @@
+level_code,level_description,var_code,var_description
+state_code,state,1,JAMMU & KASHMIR
+state_code,state,2,HIMACHAL PRADESH
+state_code,state,3,PUNJAB
+state_code,state,4,CHANDIGARH
+state_code,state,5,UTTARKHAND
+state_code,state,6,HARYANA
+state_code,state,7,DELHI
+state_code,state,8,RAJASTHAN
+state_code,state,9,UTTAR PRADESH
+state_code,state,11,SIKKIM
+state_code,state,12,ARUNACHAL PRADESH
+state_code,state,13,NAGALAND
+state_code,state,14,MANIPUR
+state_code,state,15,MIZORAM
+state_code,state,16,TRIPURA
+state_code,state,17,MEGHALAYA
+state_code,state,18,ASSAM
+state_code,state,19,WEST BENGAL
+state_code,state,21,ORISSA
+state_code,state,22,CHHATISGARH
+state_code,state,23,MADHYA PRADESH
+state_code,state,24,GUJRAT
+state_code,state,25,DAMAN & DIU
+state_code,state,26,DADRA & NAGAR HAVELI
+state_code,state,28,ANDHRA PRADESH
+state_code,state,29,KARNATAKA
+state_code,state,30,GOA
+state_code,state,32,KERALA
+state_code,state,33,TAMIL NADU
+state_code,state,34,PONDICHERRY
+state_code,state,35,ANDAMAN & NICOBAR ISLANDS
+year,Year,2001,2001
+year,Year,2002,2002
+year,Year,2003,2003
+year,Year,2004,2004
+year,Year,2005,2005
+year,Year,2006,2006
+year,Year,2007,2007
+year,Year,2008,2008
+year,Year,2009,2009
+year,Year,2010,2010
+year,Year,2011,2011
+season,Season,1,kharif
+season,Season,2,rabi
+season,Season,3,summer
+season,Season,4,winter
+season,Season,5,autumn
+season,Season,6,whole year
+crop_code,Crop,507,Arecanut
+crop_code,Crop,202,Arhar (Tur)
+crop_code,Crop,103,Bajra
+crop_code,Crop,606,Banana
+crop_code,Crop,107,Barley
+crop_code,Crop,501,Black pepper
+crop_code,Crop,506,Cardamom
+crop_code,Crop,619,Cashewnut
+crop_code,Crop,1002,Castor seed
+crop_code,Crop,1006,Coconut
+crop_code,Crop,509,Coriander
+crop_code,Crop,1101,Cotton(lint)
+crop_code,Crop,502,Dry chillies
+crop_code,Crop,503,Dry ginger
+crop_code,Crop,508,Garlic
+crop_code,Crop,201,Gram
+crop_code,Crop,1001,Groundnut
+crop_code,Crop,1401,Guar seed
+crop_code,Crop,206,HorseGram
+crop_code,Crop,102,Jowar
+crop_code,Crop,1102,Jute
+crop_code,Crop,521,Kesari
+crop_code,Crop,604,Lemon
+crop_code,Crop,1005,Linseed
+crop_code,Crop,104,Maize
+crop_code,Crop,205,Masoor
+crop_code,Crop,1103,Mesta
+crop_code,Crop,204,Moong
+crop_code,Crop,209,Moth
+crop_code,Crop,1010,Niger seed
+crop_code,Crop,708,Onion
+crop_code,Crop,288,Other Kharif Pulses
+crop_code,Crop,288,Other Rabi Pulses
+crop_code,Crop,208,Peas & Beans (Pulses)
+crop_code,Crop,701,Potato
+crop_code,Crop,105,Ragi
+crop_code,Crop,1004,Rapeseed &Mustard
+crop_code,Crop,101,Rice
+crop_code,Crop,1008,Safflower
+crop_code,Crop,1104,Sannhamp
+crop_code,Crop,614,Sapota
+crop_code,Crop,1003,Sesamum
+crop_code,Crop,108,Small millets
+crop_code,Crop,1009,Soyabean
+crop_code,Crop,401,Sugarcane
+crop_code,Crop,1007,Sunflower
+crop_code,Crop,703,Sweet potato
+crop_code,Crop,702,Tapioca
+crop_code,Crop,1302,Tobacco
+crop_code,Crop,504,Turmeric
+crop_code,Crop,203,Urad
+crop_code,Crop,106,Wheat

@@ -1,0 +1,9 @@
+code,description
+labor_exp_disb,"Labour exp. (disbursed, Rs. In Lakhs)"
+material_exp_disb,"Material exp. (disbursed, Rs. In Lakhs)"
+labor_exp_pend,"Labour exp. (disbursed + pending, Rs. In Lakhs)"
+material_exp_pend,"Material exp. (disbursed + pending, Rs. In Lakhs)"
+amt_sanc,Amount sanctioned (Rs. In Lakhs)
+total_works,Total works in the district
+no_blocks,total number of blocks in the district
+no_blocks_summmarized,no of blocks available to summarize the data
