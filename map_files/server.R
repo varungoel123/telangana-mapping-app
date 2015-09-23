@@ -33,8 +33,8 @@ drv <- dbDriver("PostgreSQL")
 # load shapefile in R workspace
 distshp <- readShapePoly("./data/telangana_dist2011.shp",
                          proj4string = CRS("+proj=longlat +datum=WGS84 +no_defs +ellps=WGS84 +towgs84=0,0,0"))
-#state_line <- readShapeLines("./data/state_line_map.shp",
-#                             proj4string = CRS("+proj=longlat +datum=WGS84 +no_defs +ellps=WGS84 +towgs84=0,0,0"))
+state_line <- readShapeLines("./data/telangana_state2011.shp",
+                             proj4string = CRS("+proj=longlat +datum=WGS84 +no_defs +ellps=WGS84 +towgs84=0,0,0"))
 #print(names(tablist))
 
 shinyServer(function(input, output, session) {
@@ -267,8 +267,8 @@ shinyServer(function(input, output, session) {
     #       }
     #       
     colcode <- findColours(class, plotclr)
-    plot(distshp,xlim = distshp@bbox[1,], ylim = distshp@bbox[2,],col=alpha(colcode,1), border="black",lwd=0.001)
-    #plot(state_line,col="black",lwd=2, add=TRUE)
+    plot(distshp,xlim = distshp@bbox[1,], ylim = distshp@bbox[2,],col=alpha(colcode,1), border="black",lwd=0.2)
+    plot(state_line,col="black",lwd=2, add=TRUE)
     title(main=input$table_var, 
           sub=input$table_name)
     
