@@ -267,8 +267,8 @@ shinyServer(function(input, output, session) {
     #       }
     #       
     colcode <- findColours(class, plotclr)
-    plot(distshp,xlim = distshp@bbox[1,], ylim = distshp@bbox[2,],col=alpha(colcode,1), border="black",lwd=0.2)
-    plot(state_line,col="black",lwd=2, add=TRUE)
+    plot(distshp,xlim = distshp@bbox[1,], ylim = distshp@bbox[2,],col=alpha(colcode,1), border="black",lwd=0.5)
+    plot(state_line,col="black",lwd=1, add=TRUE)
     title(main=input$table_var, 
           sub=input$table_name)
     
