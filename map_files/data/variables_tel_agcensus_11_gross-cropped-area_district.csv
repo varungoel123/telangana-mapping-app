@@ -1,0 +1,6 @@
+code,description
+holding_no,Total Holdings (No.)
+holding_ar,Total Holdings (Area in Ha)
+gca_irrigated,Gross Cropped Area under Irrigation (in Ha)
+gca_unirrigated,Gross Cropped Area NOT under irrigation (in Ha)
+gca_total,Total Gross Cropped Area (in Ha)

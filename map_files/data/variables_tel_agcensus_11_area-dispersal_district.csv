@@ -1,0 +1,11 @@
+code,description
+holding_total_no,Total Holdings (No.)
+holding_total_area,Total Holdings (Area in Ha)
+holding_in_village.in.compelete_no,Operational Holdings with Area Entirely in Village of Residence (no.)
+holding_in_village.in.compelete_area,Operational Holdings with Area Entirely in Village of Residence (Area in Ha)
+holding_in_village.in.partly.out.partly_no,Operational Holdings with Area partly in within village and partly outside (same tehsil) (no.)
+holding_in_village.in.partly.out.partly_area,Operational Holdings with Area partly in within village and partly outside (same tehsil)  (Area in Ha)
+holding_in_village.out.completely_no,Operational Holdings with Area entirely outside village of residence (same tehsil) (no.)
+holding_in_village.out.completely_area,Operational Holdings with Area entirely outside village of residence (same tehsil) (Area in Ha)
+holding_out_tehsil_no,Operational Holdings whose operators reside outside the tehsil (no.)
+holding_out_tehsil_area,Operational Holdings whose operators reside outside the tehsil  (Area in Ha)

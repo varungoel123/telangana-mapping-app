@@ -1,0 +1,11 @@
+code,description
+holding_no,Total Holdings (No.)
+holding_ar,Total Holdings (Area in Ha)
+netsown_ar,Net Sown Area (ha)
+current_fallows_ar,Area Under current fallows (ha)
+netcultivated_ar,Net cultivated Area (ha)
+uncultivated.land_excluding_fallow,Uncultivated Land excluding fallow land (ha)
+fallow_excluding_current.fallow,Fallow land other than current fallows (ha)
+culturable_waste_land,Culturable Waste Land (ha)
+uncultivated_land,Total Uncultivated Land (ha)
+land_not_for_cultivation,Total Land NOT available for Cultivation (ha)

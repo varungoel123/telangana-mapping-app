@@ -1,0 +1,12 @@
+code,description
+holding_no,Total Holdings (No.)
+holding_ar,Total Holdings (Area in Ha)
+holding_whly_irri_no,Wholly Irrigated Holdings (no.)
+holding_whly_irri_ar,Wholly Irrigated Holdings (Area in ha)
+holding_whly_rain_no,Wholly rainfed holdings (no.)
+holding_whly_rain_ar,Wholly rainfed holdings (Area in ha)
+holding_prtly_irri_no,Partly irrigated holdings (no.)
+holding_prtly_irri_tot.ar,Total Area under Partly irrigated holdings (Area in ha)
+holding_prtly_irri_irri.ar,Irrigated Area under Partly irrigated holdings (Area in ha)
+holding_recve_irri_no,Total Holdings receiving irrigation (no.)
+holding_recve_irri_irri.ar,Net Irrigated Area under holdings receiving irrigation

@@ -1,0 +1,14 @@
+code,description
+holding_no,Total Holdings (No.)
+holding_ar,Total Holdings (Area in Ha)
+holding_whly.owned_self.operatd_no,Wholly owned and self operated holdings (no.)
+holding_whly.owned_self.operatd_ar,Wholly owned and self operated holdings (Area in Ha)
+holding_whly_leased.in_no,Wholly leased-in holdings (no.)
+holding_whly_leased.in_ar,Wholly leased-in holdings  (Area in Ha)
+holding_whly.operatd_no,Wholly otherwise operated holdings (no.)
+holding_whly.operatd_ar,Wholly otherwise operated holdings (Area in Ha)
+holding_partly.ownd_leased.in_operatd_no,"Partly owned, leased-in and otherwise operated holdings (no.)"
+holding_partly_ownd_ar,Partly owned holdings (Area in Ha)
+holding_partly_leased.in_ar,Partly leased-in holdings (Area in Ha)
+holding_partly_operatd.ar,Partly otherwise operated holdings (Area in Ha)
+holding_partly_tot_ar,"Partly owned, leased-in and otherwise operated holdings (Area in Ha)"
