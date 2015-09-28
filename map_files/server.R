@@ -314,7 +314,7 @@ shinyServer(function(input, output, session) {
       paste0(image_name,".png")
     },
     content = function(file) {
-      png(file,width = 800,res = 100)
+      png(file,width = 1000,res = 300)
       print(plotmap())
       dev.off()
     })
