@@ -1,136 +1,1 @@
-code,description
-cond_house_all_total,"percent of households with the condition of census houses total(good,livable,dilapidated)"
-cond_house_all_good,percent of households having the good condition
-cond_house_all_livable,percent of the households having the condition of the house livable
-cond_house_all_dilapidated,percent of the households having the condition of the house dilapidated
-cond_house_res_total,percent of households having the residence
-cond_house_res_good,percent of the households have the conditon of the residence house good
-cond_house_res_livable,percent of the households have the condition of the residence house livable
-cond_house_res_dilapidated,percent of the households have the condition of the residence house dilapidated
-cond_house_res_oth_total,percent of households having the residence cum other use
-cond_house_res_oth_good,percent of the households have the conditon of the residence-cum other use house good
-cond_house_res_oth_livable,percent of the households have the conditon of the residence-cum other use house good
-cond_house_res_oth_dilapidated,percent of the households have the conditon of the residence-cum other use house good
-mor_grass,percent of households having material of roof as grass/thatch/bamboo
-mor_plastic,percent of households having material of roof for house as plastic
-mor_hand_tiles,percent of households having material of roof for house as hand tiles
-mor_machine_tiles,percent of households having material of roof as machine made tiles
-mor_burnt_brick,percent of households having material of roof as burnt brick
-mor_stone_slate,percent of households having material of roof as stone/slate
-mor_gi_metal,percent of households having material of roof as G.I./Metal/ Asbestos sheets
-mor_concrete,percent of households having material of roof as concrete
-mor_oth,percent of households having material of roof as any other material
-mow_grass,percent of households having material of wall as grass/thatch/bamboo
-mow_plastic,percent of households having material of wall for house as plastic
-mow_mud,percent of households having material of wall for house as mud
-mow_wood,percent of households having material of wall as wood
-mow_stone_unpack,percent of households having material of wall as stone unpacked with mortar
-mow_stone_pack,percent of households having material of wall as stone packed with mortar
-mow_gi_metal,percent of households having material of wall as G.I./Metal/ Asbestos sheets
-mow_burnt_brick,percent of households having material of wall as burnt brick
-mow_concrete,percent of households having material of wall as concrete
-mow_oth,percent of households having material of wall as any other material
-mof_mud,percent of households having material of floor for house as mud
-mof_wood,percent of households having material of floor as wood
-mof_burnt_brick,percent of households having material of floor as burnt brick
-mof_stone,percent of households having material of floor as stone
-mof_cement,percent of households having material of floor as cement
-mof_mosaic,percent of households having material of floor as mosiac/floor tiles
-mof_oth,percent of households having material of floor as any other material
-none_dwell_room,percent of households having no exclusvie dwell room 
-one_dwell_room,percent of households having one dwell room 
-two_dwell_room,percent of households having two dwell rooms 
-three_dwell_room,percent of households having three dwell rooms 
-four_dwell_room,percent of households having four dwell rooms 
-five_dwell_room,percent of households having five dwell rooms 
-six_above_dwell_room,percent of households having more than six dwell rooms
-HH_size_one,percent of households having the household size of one member
-HH_size_two,percent of households having the household size of two members
-HH_size_three,percent of households having the household size of three members
-HH_size_four,percent of households having the household size of four members
-HH_size_five,percent of households having the household size of five members
-HH_size_six_eight,percent of households having the household size of six to eight members
-HH_size_nine_plus,percent of households having the household size of six to five members
-H_owned,percent of households have owned house
-H_rented,percent of households have rented house
-H_any_others,percent of households have any other ownership status of the house
-mc_none,percent of households not having any married couple
-mc_one,percent of households having one married couple in the house
-mc_two,percent of households having two married couple in the house
-mc_three,percent of households having three married couple in the house
-mc_four,percent of households having four married couple in the house
-mc_five,percent of households having five or more married couple in the house
-sdw_tap_treated,percent of households have the tap water from treated source
-sdw_tap_untreated,percent of households have the tap water from untreated source
-sdw_covered_well,percent of households have the drinking water from covered well
-sdw_uncovered_well,percent of households have the drinking water from uncovered well
-sdw_handpump,percent of households have the drinking water from hand pump
-sdw_tube_bore,percent of households have the drinking water from tube well or bore
-sdw_spring,percent of households have the drinking water from spring
-sdw_river,percent of households have the drinking water from river
-sdw_tank,percent of households have the drinking water from tank
-sdw_others,percent of households have the drinking water from other sources
-idw_within_premise,percent of households having location of drinking water within the premises
-idw_near_premise,percent of households having location of drinking water near  the premises
-idw_away_premise,percent of households having location of drinking water away from  the premises
-sl_electricity,percent of households having light through electricity
-sl_kerosene,percent of households having light through kerosone
-sl_solar,percent of households having light through solar energy
-sl_other_oil,percent of households having light through other oils
-sl_any_other,percent of households having light through any other source
-sl_no_light,percent of houeholds having no light
-hhs_lf_within_premise,Percent of households having latrine facility within the premises
-fl_sewer_piped,percent of households flush latrine connected to the sewer pipe
-fl_septic,percent of households flush latrine connected to the septic tank
-fl_other,percent of households flush latrine connected to the other system
-pl_slab,percent of houeholds having pit latrine with slab
-pl_no_slab,percent of houeholds having pit latrine without slab
-soil_disp_open_drain,percent of households where the night soil disposed into open drain
-sl_ns_rem_human,percent of houselds reported that Night soil removed by human
-sl_ns_rem_animal,percent of houselds reported that Night soil serviced by animals
-hhs_lf_outside_premise,percent of households not having latrine facility within the premises
-public_l,percent of households using public latrine
-open_l,percent of households openly defacte
-hhs_bath_f,Number of households having bathing facility within the premises having bathroom
-hhs_bath_noroof,Number of households having bathing facility enclosure without roof
-hhs_no_bath_f,Number of households not having bathing facility 
-wwo_close_drainage,percent of households having the waste water outlet connected to the closed drainage
-wwo_open_drainage,percent of households having the waste water outlet connected to the open drainage
-wwo_no_drainage,percent of households having the waste water outlet connected to the no drainage
-fc_firewood,percent of households use firewood for cooking
-fc_crop_residue,percent of households use crop residue for cooking
-fc_cowdung,percent of households use cow dung for cooking
-fc_coal_types,"percent of households use coal, lignite, charcoal for cooking"
-fc_kerosone,percent of households use kerosone for cooking
-fc_lpg,percent of households use lpg/png for cooking
-fc_electricity,percent of households use electricity for cooking
-fc_biogas,percent of households use biogas for cooking
-fc_other,percent of households use other sources for cooking
-fc_no_cooking,percent of households who do not cook
-kf_total,percent of households have kitchen facility
-kf_inside_house,percent of households have  cooking inside in the house
-kf_has_i_k,percent of households has kitchen inside  house
-kf_no_i_k,percent of households does not have kitchen inside house
-kf_outside_house,percent of households have  cooking outside in the house
-kf_has_o_k,percent of households has kitchen outside  house
-kf_no_o_k,percent of households does not have kitchen outside house
-kf_no_cooking,percent of households who reports no cooking
-hhs_bank_services,percent of households avail banking services
-aa_radio,percent of households having availibility of radio
-aa_tv,percent of households having availibility of TV
-aa_comp_int,percent of households having availability of computer/laptop with internet
-aa_comp_no_int,percent of households having availability of computer/laptop without internet
-aa_ll,percent of households having landline only
-aa_mobile,percent of households having mobile only
-aa_ll_mobile,percent of households having both landline and mobile 
-aa_bicycle,percent of households having bicycle
-aa_scooter,percent of households having Scooter/ Motorcycle/Moped
-aa_car,percent of households having car/ Jeep/Van
-aa_tv_c_ph_car,"percent of households with Households with TV, Computer/Laptop, Telephone/mobile phone and Scooter/ Car"
-aa_none,percent of households have none of the assets 
-hhs_cen_house_perm,percent of households having the cenus houses structure as permanent 
-hhs_cen_house_semi_perm,percent of households having the cenus houses structure as semi-permanent 
-hhs_cen_house_temp,percent of households having the cenus houses structure as temporary
-hhs_cen_house_service,percent of households having the cenus houses structure as serviceable
-hhs_cen_house_nonservice,percent of households having the cenus houses structure as non-serviceable
-hhs_cen_house_unclassify,percent of households having the cenus houses structure as unclassifiable
+code,descriptioncond_house_all_good,percent of households having the good living conditioncond_house_all_livable,percent of the households having livable conditioncond_house_all_dilapidated,percent of the households having dilapidated conditioncond_house_res_good,percent of the households have the conditon of the residence house goodcond_house_res_livable,percent of the households have the condition of the residence house livablecond_house_res_dilapidated,percent of the households have the condition of the residence house dilapidatedcond_house_res_oth_total,percent of households having the residence cum other usecond_house_res_oth_good,percent of the households have the conditon of the residence-cum other use house goodcond_house_res_oth_livable,percent of the households have the conditon of the residence-cum other use house goodcond_house_res_oth_dilapidated,percent of the households have the conditon of the residence-cum other use house goodmor_grass,percent of households having material of roof as grass/thatch/bamboomor_plastic,percent of households having material of roof for house as plasticmor_hand_tiles,percent of households having material of roof for house as hand tilesmor_machine_tiles,percent of households having material of roof as machine made tilesmor_burnt_brick,percent of households having material of roof as burnt brickmor_stone_slate,percent of households having material of roof as stone/slatemor_gi_metal,percent of households having material of roof as G.I./Metal/ Asbestos sheetsmor_concrete,percent of households having material of roof as concretemor_oth,percent of households having material of roof as any other materialmow_grass,percent of households having material of wall as grass/thatch/bamboomow_plastic,percent of households having material of wall for house as plasticmow_mud,percent of households having material of wall for house as mudmow_wood,percent of households having material of wall as woodmow_stone_unpack,percent of households having material of wall as stone unpacked with mortarmow_stone_pack,percent of households having material of wall as stone packed with mortarmow_gi_metal,percent of households having material of wall as G.I./Metal/ Asbestos sheetsmow_burnt_brick,percent of households having material of wall as burnt brickmow_concrete,percent of households having material of wall as concretemow_oth,percent of households having material of wall as any other materialmof_mud,percent of households having material of floor for house as mudmof_wood,percent of households having material of floor as woodmof_burnt_brick,percent of households having material of floor as burnt brickmof_stone,percent of households having material of floor as stonemof_cement,percent of households having material of floor as cementmof_mosaic,percent of households having material of floor as mosiac/floor tilesmof_oth,percent of households having material of floor as any other materialnone_dwell_room,percent of households having no exclusvie dwell room one_dwell_room,percent of households having one dwell room two_dwell_room,percent of households having two dwell rooms three_dwell_room,percent of households having three dwell rooms four_dwell_room,percent of households having four dwell rooms five_dwell_room,percent of households having five dwell rooms six_above_dwell_room,percent of households having more than six dwell roomsHH_size_one,percent of households having the household size of one memberHH_size_two,percent of households having the household size of two membersHH_size_three,percent of households having the household size of three membersHH_size_four,percent of households having the household size of four membersHH_size_five,percent of households having the household size of five membersHH_size_six_eight,percent of households having the household size of six to eight membersHH_size_nine_plus,percent of households having the household size of six to five membersH_owned,percent of households have owned houseH_rented,percent of households have rented houseH_any_others,percent of households have any other ownership status of the housemc_none,percent of households not having any married couplemc_one,percent of households having one married couple in the housemc_two,percent of households having two married couple in the housemc_three,percent of households having three married couple in the housemc_four,percent of households having four married couple in the housemc_five,percent of households having five or more married couple in the housesdw_tap_treated,percent of households have the tap water from treated sourcesdw_tap_untreated,percent of households have the tap water from untreated sourcesdw_covered_well,percent of households have the drinking water from covered wellsdw_uncovered_well,percent of households have the drinking water from uncovered wellsdw_handpump,percent of households have the drinking water from hand pumpsdw_tube_bore,percent of households have the drinking water from tube well or boresdw_spring,percent of households have the drinking water from springsdw_river,percent of households have the drinking water from riversdw_tank,percent of households have the drinking water from tanksdw_others,percent of households have the drinking water from other sourcesidw_within_premise,percent of households having location of drinking water within the premisesidw_near_premise,percent of households having location of drinking water near  the premisesidw_away_premise,percent of households having location of drinking water away from  the premisessl_electricity,percent of households having light through electricitysl_kerosene,percent of households having light through kerosonesl_solar,percent of households having light through solar energysl_other_oil,percent of households having light through other oilssl_any_other,percent of households having light through any other sourcesl_no_light,percent of houeholds having no lighthhs_lf_within_premise,Percent of households having latrine facility within the premisesfl_sewer_piped,percent of households flush latrine connected to the sewer pipefl_septic,percent of households flush latrine connected to the septic tankfl_other,percent of households flush latrine connected to the other systempl_slab,percent of houeholds having pit latrine with slabpl_no_slab,percent of houeholds having pit latrine without slabsoil_disp_open_drain,percent of households where the night soil disposed into open drainsl_ns_rem_human,percent of houselds reported that Night soil removed by humansl_ns_rem_animal,percent of houselds reported that Night soil serviced by animalshhs_lf_outside_premise,percent of households not having latrine facility within the premisespublic_l,percent of households using public latrineopen_l,percent of households openly defactehhs_bath_f,Number of households having bathing facility within the premises having bathroomhhs_bath_noroof,Number of households having bathing facility enclosure without roofhhs_no_bath_f,Number of households not having bathing facility wwo_close_drainage,percent of households having the waste water outlet connected to the closed drainagewwo_open_drainage,percent of households having the waste water outlet connected to the open drainagewwo_no_drainage,percent of households having the waste water outlet connected to the no drainagefc_firewood,percent of households use firewood for cookingfc_crop_residue,percent of households use crop residue for cookingfc_cowdung,percent of households use cow dung for cookingfc_coal_types,"percent of households use coal, lignite, charcoal for cooking"fc_kerosone,percent of households use kerosone for cookingfc_lpg,percent of households use lpg/png for cookingfc_electricity,percent of households use electricity for cookingfc_biogas,percent of households use biogas for cookingfc_other,percent of households use other sources for cookingfc_no_cooking,percent of households who do not cookkf_total,percent of households have kitchen facilitykf_inside_house,percent of households have  cooking inside in the housekf_has_i_k,percent of households has kitchen inside  housekf_no_i_k,percent of households does not have kitchen inside housekf_outside_house,percent of households have  cooking outside in the housekf_has_o_k,percent of households has kitchen outside  housekf_no_o_k,percent of households does not have kitchen outside housekf_no_cooking,percent of households who reports no cookinghhs_bank_services,percent of households avail banking servicesaa_radio,percent of households having availibility of radioaa_tv,percent of households having availibility of TVaa_comp_int,percent of households having availability of computer/laptop with internetaa_comp_no_int,percent of households having availability of computer/laptop without internetaa_ll,percent of households having landline onlyaa_mobile,percent of households having mobile onlyaa_ll_mobile,percent of households having both landline and mobile aa_bicycle,percent of households having bicycleaa_scooter,percent of households having Scooter/ Motorcycle/Mopedaa_car,percent of households having car/ Jeep/Vanaa_tv_c_ph_car,"percent of households with Households with TV, Computer/Laptop, Telephone/mobile phone and Scooter/ Car"aa_none,percent of households have none of the assets hhs_cen_house_perm,percent of households having the cenus houses structure as permanent hhs_cen_house_semi_perm,percent of households having the cenus houses structure as semi-permanent hhs_cen_house_temp,percent of households having the cenus houses structure as temporaryhhs_cen_house_service,percent of households having the cenus houses structure as serviceablehhs_cen_house_nonservice,percent of households having the cenus houses structure as non-serviceablehhs_cen_house_unclassify,percent of households having the cenus houses structure as unclassifiable

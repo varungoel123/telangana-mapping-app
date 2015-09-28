@@ -1,219 +1,1 @@
-"level_code","level_description","var_code","var_description"
-"state_code","state",1,"JAMMU & KASHMIR"
-"state_code","state",2,"HIMACHAL PRADESH"
-"state_code","state",3,"PUNJAB"
-"state_code","state",4,"CHANDIGARH"
-"state_code","state",5,"UTTARKHAND"
-"state_code","state",6,"HARYANA"
-"state_code","state",7,"DELHI"
-"state_code","state",8,"RAJASTHAN"
-"state_code","state",9,"UTTAR PRADESH"
-"state_code","state",11,"SIKKIM"
-"state_code","state",12,"ARUNACHAL PRADESH"
-"state_code","state",13,"NAGALAND"
-"state_code","state",14,"MANIPUR"
-"state_code","state",15,"MIZORAM"
-"state_code","state",16,"TRIPURA"
-"state_code","state",17,"MEGHALAYA"
-"state_code","state",18,"ASSAM"
-"state_code","state",19,"WEST BENGAL"
-"state_code","state",21,"ORISSA"
-"state_code","state",22,"CHHATISGARH"
-"state_code","state",23,"MADHYA PRADESH"
-"state_code","state",24,"GUJRAT"
-"state_code","state",25,"DAMAN & DIU"
-"state_code","state",26,"DADRA & NAGAR HAVELI"
-"state_code","state",28,"ANDHRA PRADESH"
-"state_code","state",29,"KARNATAKA"
-"state_code","state",30,"GOA"
-"state_code","state",31,"LAKSHADWEEP"
-"state_code","state",32,"KERALA"
-"state_code","state",33,"TAMIL NADU"
-"state_code","state",34,"PONDICHERRY"
-"state_code","state",35,"ANDAMAN & NICOBAR ISLANDS"
-"social_group_code","Social Group",1,"Scheduled Castes (SC)"
-"social_group_code","Social Group",2,"Scheduled Tribes (ST)"
-"social_group_code","Social Group",3,"Others"
-"social_group_code","Social Group",4,"Institutional "
-"class_category_code","Land holding class category",1,"Marginal (< 1 hectare)"
-"class_category_code","Land holding class category",2,"Small (1-2 hectares)"
-"class_category_code","Land holding class category",3,"Semi-Medium (2-4 hectares)"
-"class_category_code","Land holding class category",4,"Medium (4-10 hectares)"
-"class_category_code","Land holding class category",5,"Large (>10 hectares)"
-"crop_code","Crop",101,"PADDY"
-"crop_code","Crop",102,"JOWAR"
-"crop_code","Crop",103,"BAJRA"
-"crop_code","Crop",104,"MAIZE"
-"crop_code","Crop",105,"RAGI"
-"crop_code","Crop",106,"WHEAT"
-"crop_code","Crop",107,"BARLEY"
-"crop_code","Crop",108,"SMALL MILLETS"
-"crop_code","Crop",109,"JOBSTEARS"
-"crop_code","Crop",110,"GRIM"
-"crop_code","Crop",188,"OTHER CEREALS"
-"crop_code","Crop",201,"GRAM"
-"crop_code","Crop",202,"TUR  (ARHAR)"
-"crop_code","Crop",203,"URAD"
-"crop_code","Crop",204,"MOONG"
-"crop_code","Crop",205,"MASUR"
-"crop_code","Crop",206,"HORSEGRAM"
-"crop_code","Crop",207,"BEANS  (PULSES)"
-"crop_code","Crop",208,"PEAS  (PULSES)"
-"crop_code","Crop",209,"MOTH"
-"crop_code","Crop",288,"OTHER PULSES"
-"crop_code","Crop",399,"TOTAL FOODGRAINS"
-"crop_code","Crop",401,"SUGARCANE"
-"crop_code","Crop",402,"PALMVRIAH"
-"crop_code","Crop",488,"OTHER SUGAR CROPS"
-"crop_code","Crop",501,"PEPPER  (BLACK)"
-"crop_code","Crop",502,"CHILLIES"
-"crop_code","Crop",503,"GINGER"
-"crop_code","Crop",504,"TURMERIC"
-"crop_code","Crop",505,"CARDAMUM  (SMALL)"
-"crop_code","Crop",506,"CARDAMUN  (LARGE)"
-"crop_code","Crop",507,"BETELNUTS (ARECANUTS)"
-"crop_code","Crop",508,"GARLIC"
-"crop_code","Crop",509,"CORIANDER"
-"crop_code","Crop",510,"TAMARIND"
-"crop_code","Crop",511,"CUMIN SEED"
-"crop_code","Crop",512,"FENNEL/ANISE SEED"
-"crop_code","Crop",513,"NUTMEG"
-"crop_code","Crop",514,"FENUGREEK"
-"crop_code","Crop",515,"CLOVES"
-"crop_code","Crop",516,"CINNAMON"
-"crop_code","Crop",517,"COCOA"
-"crop_code","Crop",518,"KACHOLAM"
-"crop_code","Crop",519,"BEETLVINE"
-"crop_code","Crop",520,"AJWAIN"
-"crop_code","Crop",521,"SAFFRON"
-"crop_code","Crop",588,"OTHER CONDI. & SPICE"
-"crop_code","Crop",601,"MANGOES"
-"crop_code","Crop",602,"ORANGE AND KINU"
-"crop_code","Crop",603,"MOSAMBI"
-"crop_code","Crop",604,"LEMON / ACID LIME"
-"crop_code","Crop",605,"OTHER CITROUS FRUITS"
-"crop_code","Crop",606,"BANANA"
-"crop_code","Crop",607,"TABLE GRAPES"
-"crop_code","Crop",608,"WINE GRAPES (BLACK)"
-"crop_code","Crop",609,"APPLE"
-"crop_code","Crop",610,"PEAR"
-"crop_code","Crop",611,"PEACHES"
-"crop_code","Crop",612,"PLUM"
-"crop_code","Crop",613,"KIWI FRUIT"
-"crop_code","Crop",614,"CHIKU"
-"crop_code","Crop",615,"PAPAYA"
-"crop_code","Crop",616,"GUAVA"
-"crop_code","Crop",617,"ALMOND"
-"crop_code","Crop",618,"WALNUT"
-"crop_code","Crop",619,"CASHEWNUTS"
-"crop_code","Crop",620,"APRICOT"
-"crop_code","Crop",621,"JACK FRUIT"
-"crop_code","Crop",622,"LICHI"
-"crop_code","Crop",623,"PINEAPPLE"
-"crop_code","Crop",624,"WATER MELON"
-"crop_code","Crop",625,"MUSK MELON"
-"crop_code","Crop",626,"BREAD FRUITS"
-"crop_code","Crop",627,"BER"
-"crop_code","Crop",628,"BEL"
-"crop_code","Crop",629,"MULBERRY (SAHATOOT)"
-"crop_code","Crop",630,"AONLA  (AMLA)"
-"crop_code","Crop",631,"POMOGRANATE"
-"crop_code","Crop",632,"CUSTARD APPLE"
-"crop_code","Crop",633,"PASSION FRUITS"
-"crop_code","Crop",688,"OTHER FRUITS"
-"crop_code","Crop",701,"POTATO"
-"crop_code","Crop",702,"TAPIOCA  (CASSAVA)"
-"crop_code","Crop",703,"SWEET POTATO"
-"crop_code","Crop",704,"YAM"
-"crop_code","Crop",705,"ELEPHANT FOOT YAM"
-"crop_code","Crop",706,"COLOCASIA / ARUM"
-"crop_code","Crop",707,"OTHER TUBER CROP"
-"crop_code","Crop",708,"ONION"
-"crop_code","Crop",709,"CARROT"
-"crop_code","Crop",710,"RADDISH"
-"crop_code","Crop",711,"BEETROOT"
-"crop_code","Crop",712,"TURNIP  (SHALGAM)"
-"crop_code","Crop",713,"TOMATO"
-"crop_code","Crop",714,"SPINACH"
-"crop_code","Crop",715,"AMARANTHS  (CHAULAI)"
-"crop_code","Crop",716,"CABBAGE"
-"crop_code","Crop",717,"OTHER LEAFY VEGETABLE"
-"crop_code","Crop",718,"BRINJAL"
-"crop_code","Crop",719,"PEAS  (VEGETABLE) "
-"crop_code","Crop",720,"LADY'S FINGER  (BHIND)"
-"crop_code","Crop",721,"CAULIFLOWER"
-"crop_code","Crop",722,"CUCUMBER"
-"crop_code","Crop",723,"BOTTLE GUARD  (LAUKI)"
-"crop_code","Crop",724,"PUMPKIN"
-"crop_code","Crop",725,"BITTER GUARD"
-"crop_code","Crop",726,"OTHER GURDS"
-"crop_code","Crop",727,"VENCH  (GUAR)"
-"crop_code","Crop",728,"BEANS  (GREEN)"
-"crop_code","Crop",729,"DRUMSTICK"
-"crop_code","Crop",730,"GREEN CHILLIES"
-"crop_code","Crop",731,"RIDGE GOURD"
-"crop_code","Crop",732,"TINDA"
-"crop_code","Crop",788,"OTHER VEGETABLES"
-"crop_code","Crop",801,"OTHER FOOD CROPS1"
-"crop_code","Crop",888,"OTHER FOOD CROPS2"
-"crop_code","Crop",1001,"GROUNDNUT"
-"crop_code","Crop",1002,"CASTORSEED"
-"crop_code","Crop",1003,"SESAMUM  (TIL)"
-"crop_code","Crop",1004,"RAPESEED & MUSTARD"
-"crop_code","Crop",1005,"LINSEED"
-"crop_code","Crop",1006,"COCONUT"
-"crop_code","Crop",1007,"SUNFLOWER"
-"crop_code","Crop",1008,"SAFFLOWER"
-"crop_code","Crop",1009,"SOYABEAN"
-"crop_code","Crop",1010,"NIGERSEED"
-"crop_code","Crop",1011,"OIL PALM"
-"crop_code","Crop",1088,"OTHER OILSEEDS"
-"crop_code","Crop",1101,"COTTON"
-"crop_code","Crop",1102,"JUTE"
-"crop_code","Crop",1103,"MESTA"
-"crop_code","Crop",1104,"SUNHEMP"
-"crop_code","Crop",1188,"OTHER FIBRES"
-"crop_code","Crop",1201,"INDIGO"
-"crop_code","Crop",1288,"OTHER DYES & TAN.MAT"
-"crop_code","Crop",1301,"OPIUM"
-"crop_code","Crop",1302,"TOBACCO"
-"crop_code","Crop",1388,"OTHER DRUGS & NARCOT"
-"crop_code","Crop",1401,"GUAR"
-"crop_code","Crop",1402,"OATS"
-"crop_code","Crop",1403,"GREEN MANURES"
-"crop_code","Crop",1488,"OTHER FODDER CROPS"
-"crop_code","Crop",1501,"TEA"
-"crop_code","Crop",1502,"COFFEE"
-"crop_code","Crop",1503,"RUBBER"
-"crop_code","Crop",1588,"OTHER PLANTATION CROP"
-"crop_code","Crop",1601,"ORCHIDS"
-"crop_code","Crop",1602,"ROSE"
-"crop_code","Crop",1603,"GLADIOLUS"
-"crop_code","Crop",1604,"CARNATION"
-"crop_code","Crop",1605,"MERIGOLD"
-"crop_code","Crop",1606,"JASMINE"
-"crop_code","Crop",1607,"CRYSANTHEMUM"
-"crop_code","Crop",1608,"TUBROSE"
-"crop_code","Crop",1609,"GARBERA"
-"crop_code","Crop",1610,"GALARDIYA"
-"crop_code","Crop",1688,"OTHER FLOWERS"
-"crop_code","Crop",1701,"ASGANDH"
-"crop_code","Crop",1702,"ISABGOL"
-"crop_code","Crop",1703,"SENA"
-"crop_code","Crop",1704,"MOOSLI"
-"crop_code","Crop",1705,"OTHER MEDICINAL PLAN"
-"crop_code","Crop",1706,"MEHANDI"
-"crop_code","Crop",1707,"ALLOVERA"
-"crop_code","Crop",1708,"BACOPAMONNIERI"
-"crop_code","Crop",1711,"LEMON GRASS"
-"crop_code","Crop",1712,"MINT"
-"crop_code","Crop",1713,"MENTHOL"
-"crop_code","Crop",1714,"EUCALYPTUS"
-"crop_code","Crop",1715,"OTHER AROMATIC PLANT"
-"crop_code","Crop",1717,"VANILA"
-"crop_code","Crop",1788,"OTHER MED. PLANT"
-"crop_code","Crop",1801,"CANES"
-"crop_code","Crop",1802,"BAMBOOS"
-"crop_code","Crop",1803,"OTHER NON-FOOD CROPS1"
-"crop_code","Crop",1806,"TEAK"
-"crop_code","Crop",1888,"OTHER NON FOOD CROPS2"
+level_code,level_description,var_code,var_descriptionstate_code,state,1,JAMMU & KASHMIRstate_code,state,2,HIMACHAL PRADESHstate_code,state,3,PUNJABstate_code,state,4,CHANDIGARHstate_code,state,5,UTTARKHANDstate_code,state,6,HARYANAstate_code,state,7,DELHIstate_code,state,8,RAJASTHANstate_code,state,9,UTTAR PRADESHstate_code,state,11,SIKKIMstate_code,state,12,ARUNACHAL PRADESHstate_code,state,13,NAGALANDstate_code,state,14,MANIPURstate_code,state,15,MIZORAMstate_code,state,16,TRIPURAstate_code,state,17,MEGHALAYAstate_code,state,18,ASSAMstate_code,state,19,WEST BENGALstate_code,state,21,ORISSAstate_code,state,22,CHHATISGARHstate_code,state,23,MADHYA PRADESHstate_code,state,24,GUJRATstate_code,state,25,DAMAN & DIUstate_code,state,26,DADRA & NAGAR HAVELIstate_code,state,28,ANDHRA PRADESHstate_code,state,29,KARNATAKAstate_code,state,30,GOAstate_code,state,31,LAKSHADWEEPstate_code,state,32,KERALAstate_code,state,33,TAMIL NADUstate_code,state,34,PONDICHERRYstate_code,state,35,ANDAMAN & NICOBAR ISLANDSsocial_group_code,Social Group,1,Scheduled Castes (SC)social_group_code,Social Group,2,Scheduled Tribes (ST)social_group_code,Social Group,3,Otherssocial_group_code,Social Group,4,Institutional class_category_code,Land holding class category,1,Marginal (< 1 hectare)class_category_code,Land holding class category,2,Small (1-2 hectares)class_category_code,Land holding class category,3,Semi-Medium (2-4 hectares)class_category_code,Land holding class category,4,Medium (4-10 hectares)class_category_code,Land holding class category,5,Large (>10 hectares)crop_code,Crop,101,PADDYcrop_code,Crop,102,JOWARcrop_code,Crop,103,BAJRAcrop_code,Crop,104,MAIZEcrop_code,Crop,105,RAGIcrop_code,Crop,106,WHEATcrop_code,Crop,107,BARLEYcrop_code,Crop,108,SMALL MILLETScrop_code,Crop,188,OTHER CEREALScrop_code,Crop,201,GRAMcrop_code,Crop,202,TUR  (ARHAR)crop_code,Crop,203,URADcrop_code,Crop,204,MOONGcrop_code,Crop,205,MASURcrop_code,Crop,206,HORSEGRAMcrop_code,Crop,207,BEANS  (PULSES)crop_code,Crop,208,PEAS  (PULSES)crop_code,Crop,209,MOTHcrop_code,Crop,288,OTHER PULSEScrop_code,Crop,399,TOTAL FOODGRAINScrop_code,Crop,401,SUGARCANEcrop_code,Crop,402,PALMVRIAHcrop_code,Crop,488,OTHER SUGAR CROPScrop_code,Crop,501,PEPPER  (BLACK)crop_code,Crop,502,CHILLIEScrop_code,Crop,503,GINGERcrop_code,Crop,504,TURMERICcrop_code,Crop,505,CARDAMUM  (SMALL)crop_code,Crop,506,CARDAMUN  (LARGE)crop_code,Crop,507,BETELNUTS (ARECANUTS)crop_code,Crop,508,GARLICcrop_code,Crop,509,CORIANDERcrop_code,Crop,510,TAMARINDcrop_code,Crop,511,CUMIN SEEDcrop_code,Crop,512,FENNEL/ANISE SEEDcrop_code,Crop,513,NUTMEGcrop_code,Crop,514,FENUGREEKcrop_code,Crop,515,CLOVEScrop_code,Crop,516,CINNAMONcrop_code,Crop,517,COCOAcrop_code,Crop,518,KACHOLAMcrop_code,Crop,519,BEETLVINEcrop_code,Crop,520,AJWAINcrop_code,Crop,521,SAFFRONcrop_code,Crop,588,OTHER CONDI. & SPICEcrop_code,Crop,601,MANGOEScrop_code,Crop,602,ORANGE AND KINUcrop_code,Crop,603,MOSAMBIcrop_code,Crop,604,LEMON / ACID LIMEcrop_code,Crop,605,OTHER CITROUS FRUITScrop_code,Crop,606,BANANAcrop_code,Crop,607,TABLE GRAPEScrop_code,Crop,608,WINE GRAPES (BLACK)crop_code,Crop,609,APPLEcrop_code,Crop,610,PEARcrop_code,Crop,611,PEACHEScrop_code,Crop,612,PLUMcrop_code,Crop,613,KIWI FRUITcrop_code,Crop,614,CHIKUcrop_code,Crop,615,PAPAYAcrop_code,Crop,616,GUAVAcrop_code,Crop,617,ALMONDcrop_code,Crop,618,WALNUTcrop_code,Crop,619,CASHEWNUTScrop_code,Crop,620,APRICOTcrop_code,Crop,621,JACK FRUITcrop_code,Crop,622,LICHIcrop_code,Crop,623,PINEAPPLEcrop_code,Crop,624,WATER MELONcrop_code,Crop,625,MUSK MELONcrop_code,Crop,626,BREAD FRUITScrop_code,Crop,627,BERcrop_code,Crop,628,BELcrop_code,Crop,629,MULBERRY (SAHATOOT)crop_code,Crop,630,AONLA  (AMLA)crop_code,Crop,631,POMOGRANATEcrop_code,Crop,632,CUSTARD APPLEcrop_code,Crop,633,PASSION FRUITScrop_code,Crop,688,OTHER FRUITScrop_code,Crop,701,POTATOcrop_code,Crop,702,TAPIOCA  (CASSAVA)crop_code,Crop,703,SWEET POTATOcrop_code,Crop,704,YAMcrop_code,Crop,705,ELEPHANT FOOT YAMcrop_code,Crop,706,COLOCASIA / ARUMcrop_code,Crop,707,OTHER TUBER CROPcrop_code,Crop,708,ONIONcrop_code,Crop,709,CARROTcrop_code,Crop,710,RADDISHcrop_code,Crop,711,BEETROOTcrop_code,Crop,712,TURNIP  (SHALGAM)crop_code,Crop,713,TOMATOcrop_code,Crop,714,SPINACHcrop_code,Crop,715,AMARANTHS  (CHAULAI)crop_code,Crop,716,CABBAGEcrop_code,Crop,717,OTHER LEAFY VEGETABLEcrop_code,Crop,718,BRINJALcrop_code,Crop,719,PEAS  (VEGETABLE) crop_code,Crop,720,LADY'S FINGER  (BHIND)crop_code,Crop,721,CAULIFLOWERcrop_code,Crop,722,CUCUMBERcrop_code,Crop,723,BOTTLE GUARD  (LAUKI)crop_code,Crop,724,PUMPKINcrop_code,Crop,725,BITTER GUARDcrop_code,Crop,726,OTHER GURDScrop_code,Crop,727,VENCH  (GUAR)crop_code,Crop,728,BEANS  (GREEN)crop_code,Crop,729,DRUMSTICKcrop_code,Crop,730,GREEN CHILLIEScrop_code,Crop,731,RIDGE GOURDcrop_code,Crop,732,TINDAcrop_code,Crop,788,OTHER VEGETABLEScrop_code,Crop,801,OTHER FOOD CROPS1crop_code,Crop,888,OTHER FOOD CROPS2crop_code,Crop,1001,GROUNDNUTcrop_code,Crop,1002,CASTORSEEDcrop_code,Crop,1003,SESAMUM  (TIL)crop_code,Crop,1004,RAPESEED & MUSTARDcrop_code,Crop,1005,LINSEEDcrop_code,Crop,1006,COCONUTcrop_code,Crop,1007,SUNFLOWERcrop_code,Crop,1008,SAFFLOWERcrop_code,Crop,1009,SOYABEANcrop_code,Crop,1010,NIGERSEEDcrop_code,Crop,1011,OIL PALMcrop_code,Crop,1088,OTHER OILSEEDScrop_code,Crop,1101,COTTONcrop_code,Crop,1102,JUTEcrop_code,Crop,1103,MESTAcrop_code,Crop,1104,SUNHEMPcrop_code,Crop,1188,OTHER FIBREScrop_code,Crop,1201,INDIGOcrop_code,Crop,1288,OTHER DYES & TAN.MATcrop_code,Crop,1301,OPIUMcrop_code,Crop,1302,TOBACCOcrop_code,Crop,1388,OTHER DRUGS & NARCOTcrop_code,Crop,1401,GUARcrop_code,Crop,1402,OATScrop_code,Crop,1403,GREEN MANUREScrop_code,Crop,1488,OTHER FODDER CROPScrop_code,Crop,1501,TEAcrop_code,Crop,1502,COFFEEcrop_code,Crop,1503,RUBBERcrop_code,Crop,1588,OTHER PLANTATION CROPcrop_code,Crop,1601,ORCHIDScrop_code,Crop,1602,ROSEcrop_code,Crop,1603,GLADIOLUScrop_code,Crop,1604,CARNATIONcrop_code,Crop,1605,MERIGOLDcrop_code,Crop,1606,JASMINEcrop_code,Crop,1607,CRYSANTHEMUMcrop_code,Crop,1608,TUBROSEcrop_code,Crop,1609,GARBERAcrop_code,Crop,1610,GALARDIYAcrop_code,Crop,1688,OTHER FLOWERScrop_code,Crop,1701,ASGANDHcrop_code,Crop,1702,ISABGOLcrop_code,Crop,1703,SENAcrop_code,Crop,1704,MOOSLIcrop_code,Crop,1705,OTHER MEDICINAL PLANcrop_code,Crop,1706,MEHANDIcrop_code,Crop,1707,ALLOVERAcrop_code,Crop,1708,BACOPAMONNIERIcrop_code,Crop,1711,LEMON GRASScrop_code,Crop,1712,MINTcrop_code,Crop,1713,MENTHOLcrop_code,Crop,1714,EUCALYPTUScrop_code,Crop,1715,OTHER AROMATIC PLANTcrop_code,Crop,1717,VANILAcrop_code,Crop,1788,OTHER MED. PLANTcrop_code,Crop,1801,CANEScrop_code,Crop,1802,BAMBOOScrop_code,Crop,1803,OTHER NON-FOOD CROPS1crop_code,Crop,1806,TEAKcrop_code,Crop,1888,OTHER NON FOOD CROPS2

@@ -35,6 +35,7 @@ distshp <- readShapePoly("./data/telangana_dist2011.shp",
                          proj4string = CRS("+proj=longlat +datum=WGS84 +no_defs +ellps=WGS84 +towgs84=0,0,0"))
 state_line <- readShapeLines("./data/telangana_state2011.shp",
                              proj4string = CRS("+proj=longlat +datum=WGS84 +no_defs +ellps=WGS84 +towgs84=0,0,0"))
+distlabels=c("Adilabad","Hyderabad","Karimnagar","Khammam","Mahbubnagar","Medak","Nalgonda","Nizamabad","Rangareddy","Warangal")
 #print(names(tablist))
 
 shinyServer(function(input, output, session) {
@@ -269,6 +270,7 @@ shinyServer(function(input, output, session) {
     colcode <- findColours(class, plotclr)
     plot(distshp,xlim = distshp@bbox[1,], ylim = distshp@bbox[2,],col=alpha(colcode,1), border="black",lwd=0.5)
     plot(state_line,col="black",lwd=1, add=TRUE)
+    text(coordinates(distshp)[,1],coordinates(distshp)[,2],distlabels, cex=0.75)
     title(main=input$table_var, 
           sub=input$table_name)
     

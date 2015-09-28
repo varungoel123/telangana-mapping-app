@@ -1,87 +1,4 @@
-code,description
-no_tehsils,Number of Tehsils
-below_six_male_exosheep,Male exotic sheep which are below six years
-above_six_male_exosheep,Male exotic sheep which are above six years
-total_male_exosheep,Total exotic sheep which are male
-below_six_female_exosheep,Female exotic sheep which are below six years
-above_six_female_exosheep,Female exotic sheep which are above six years
-total_female_exosheep,Total exotic sheep which are female
-total_exosheep,Total exotic sheep
-total_camel,Total camels
-under_one_male_buff,Male buffaloes which are under one year
-one_three_male_buff,Male buffaloes which are between one year and three years
-breeding_male_buff,Male buffaloes which are used for breeding(the production of animals by inbreeding or hybridization) only
-agr_breeding_male_buff,Male buffaloes which are used for breeding(the production of animals by inbreeding or hybridization) and also for the agricultural purposes.
-bc_breeding_male_buff,Male buffaloes which are used for breeding(the production of animals by inbreeding or hybridization) and also used as bullock carts for transportation.
-others_male_buff,Other male buffaloes
-total_male_buff,Total buffaloes (male)
-under_one_female_buff,Female buffaloes which are under one year
-one_three_female_buff,Female buffaloes which are between one year and three years
-breeding_female_buff,Female buffaloes which are used for breeding(the production of animals by inbreeding or hybridization) only
-agr_breeding_female_buff,Female buffaloes which are used for breeding(the production of animals by inbreeding or hybridization) and also for the agricultural purposes.
-bc_breeding_female_buff,Female buffaloes which are used for breeding(the production of animals by inbreeding or hybridization) and also used as bullock carts for transportation.
-others_female_buff,Other female buffaloes
-total_female_buff,Total buffaloes (female)
-total_buff,Total buffalo
-under_one_male_exocattle,Male Exotic cattle which are under one year
-one_three_male_exocattle,Male Exotic cattle which are between one year and three years
-breeding_male_exocattle,Male Exotic cattle which are used for breeding(the production of animals by inbreeding or hybridization) only
-agr_breeding_male_exocattle,Male Exotic cattle which are used for breeding(the production of animals by inbreeding or hybridization) and also for the agricultural purposes.
-bc_breeding_male_exocattle,Male Exotic cattle which are used for breeding(the production of animals by inbreeding or hybridization) and also used as bullock carts for transportation.
-others_male_exocattle,Other male Exotic cattle
-total_male_exocattle,Total exotic cattle (male)
-under_one_female_exocattle,Female Exotic cattle which are under one year
-one_twohalf_female_exocattle,Female Exotic cattle which are between one and two & half years
-in_milk_exocattle,Female exotic cattle which are in milk production
-dry_female_exocattle,"Female exotic cattle which are calved but at present not in production. Animals that cannot be calved in future are not covered under this category.
-"
-not_calved_female_exocattle,Female exotic cattle which are not calved
-above_ten_female_exocattle,Female exotic cattle which are above ten years
-total_female_exocattle,total female exotic cattle
-total_exocattle,Total exotic cattle
-under_one_male_indicattle,Male Indigenous cattle which are under one year
-one_three_male_indicattle,Male Indigenous cattle which are between one year and three years
-breeding_male_indicattle,Male Indigenous cattle which are used for breeding(the production of animals by inbreeding or hybridization) only
-agr_breeding_male_indicattle,Male Indigenous cattle which are used for breeding(the production of animals by inbreeding or hybridization) and also for the agricultural purposes.
-bc_breeding_male_indicattle,Male Indigenous cattle which are used for breeding(the production of animals by inbreeding or hybridization) and also used as bullock carts for transportation.
-others_male_indicattle,Other male indigenous cattle
-total_male_indicattle,Total indigenous cattle (male)
-under_one_female_indicattle,Female Indigenous cattle which are under one year
-one_three_female_indicattle,Female Indigenous cattle which are between one and two & half years
-in_milk_indicattle,Female Indigenous cattle which are in milk production
-dry_female_indicattle,"Female Indigenous cattle which are calved but at present not in production. Animals that cannot be calved in future are not covered under this category.
-"
-not_calved_female_indicattle,Female Indigenous cattle which are not calved
-above_ten_female_indicattle,Female Indigenous cattle which are above ten years
-total_female_indicattle,Total indigenous cattle (female)
-total_indicattle,Total indigenous cattle
-total_cattle,Total cattle which comprises both exotic and indigenous
-below_six_male_indisheep,Male indigenous sheep which are below six years
-above_six_male_indisheep,Male indigenous sheep which are above six years
-total_male_indisheep,Total indigenous sheep which are male
-below_six_female_indisheep,Female indigenous sheep which are below six years
-above_six_female_indisheep,Female indigenous sheep which are above six years
-total_female_indisheep,Total indigenous sheep which are female
-total_indisheep,Total indigenus sheep
-improved_cocks,If a cock falls in to the flock of improved hen then it is improved cock
-desi_cocks,If a cock falls in to the flock of desi hen then it is desi cock
-total_cocks,Total cocks comprises both improved and desi
-improved_hens,If a hen lays more than 100 eggs in a year then it is categorized as improved hen
-desi_hens,If a hen lays more than 100 eggs in a year then it is categorized as improved hen or else it is an desi hen
-total_hens,Total hens which are the combination of improved and desi hens
-desi_eggs,Desi hens which are kept for laying eggs
-improved_eggs,Improved hens which are kept for laying eggs
-total_eggs,Total hens which are kept for laying eggs which includes both desi and improved 
-desi_meat,Desi birds which are kep for meat
-improved_meat,Improved birds which are kep for meat
-total_meat,Total birds(desi & improved) which are kept for meat
-under_one_male_goat,Total male goats under one year
-one_three_male_goat,Total male goats above one year
-total_male_goat,Total goats (male)
-under_one_female_goat,Total female goats under one year
-in_milk_goat,Goats which are in milk production
-dry_female_goat,"Female goats which are calved but at present not in production. Animals that cannot be calved in future are not covered under this category.
-"
-not_calved_female_goat,Female goats which are not calved
-total_female_goat,Total goats (female)
-total_goat,Total goats
+code,descriptionbelow_six_male_exosheep,Male exotic sheep which are below six yearsabove_six_male_exosheep,Male exotic sheep which are above six yearstotal_male_exosheep,Total exotic sheep which are malebelow_six_female_exosheep,Female exotic sheep which are below six yearsabove_six_female_exosheep,Female exotic sheep which are above six yearstotal_female_exosheep,Total exotic sheep which are femaletotal_exosheep,Total exotic sheeptotal_camel,Total camelsunder_one_male_buff,Male buffaloes which are under one yearone_three_male_buff,Male buffaloes which are between one year and three yearsbreeding_male_buff,Male buffaloes which are used for breeding(the production of animals by inbreeding or hybridization) onlyagr_breeding_male_buff,Male buffaloes which are used for breeding(the production of animals by inbreeding or hybridization) and also for the agricultural purposes.bc_breeding_male_buff,Male buffaloes which are used for breeding(the production of animals by inbreeding or hybridization) and also used as bullock carts for transportation.others_male_buff,Other male buffaloestotal_male_buff,Total buffaloes (male)under_one_female_buff,Female buffaloes which are under one yearone_three_female_buff,Female buffaloes which are between one year and three yearsbreeding_female_buff,Female buffaloes which are used for breeding(the production of animals by inbreeding or hybridization) onlyagr_breeding_female_buff,Female buffaloes which are used for breeding(the production of animals by inbreeding or hybridization) and also for the agricultural purposes.bc_breeding_female_buff,Female buffaloes which are used for breeding(the production of animals by inbreeding or hybridization) and also used as bullock carts for transportation.others_female_buff,Other female buffaloestotal_female_buff,Total buffaloes (female)total_buff,Total buffalounder_one_male_exocattle,Male Exotic cattle which are under one yearone_three_male_exocattle,Male Exotic cattle which are between one year and three yearsbreeding_male_exocattle,Male Exotic cattle which are used for breeding(the production of animals by inbreeding or hybridization) onlyagr_breeding_male_exocattle,Male Exotic cattle which are used for breeding(the production of animals by inbreeding or hybridization) and also for the agricultural purposes.bc_breeding_male_exocattle,Male Exotic cattle which are used for breeding(the production of animals by inbreeding or hybridization) and also used as bullock carts for transportation.others_male_exocattle,Other male Exotic cattletotal_male_exocattle,Total exotic cattle (male)under_one_female_exocattle,Female Exotic cattle which are under one yearone_twohalf_female_exocattle,Female Exotic cattle which are between one and two & half yearsin_milk_exocattle,Female exotic cattle which are in milk productiondry_female_exocattle,"Female exotic cattle which are calved but at present not in production. Animals that cannot be calved in future are not covered under this category.
+"not_calved_female_exocattle,Female exotic cattle which are not calvedabove_ten_female_exocattle,Female exotic cattle which are above ten yearstotal_female_exocattle,total female exotic cattletotal_exocattle,Total exotic cattleunder_one_male_indicattle,Male Indigenous cattle which are under one yearone_three_male_indicattle,Male Indigenous cattle which are between one year and three yearsbreeding_male_indicattle,Male Indigenous cattle which are used for breeding(the production of animals by inbreeding or hybridization) onlyagr_breeding_male_indicattle,Male Indigenous cattle which are used for breeding(the production of animals by inbreeding or hybridization) and also for the agricultural purposes.bc_breeding_male_indicattle,Male Indigenous cattle which are used for breeding(the production of animals by inbreeding or hybridization) and also used as bullock carts for transportation.others_male_indicattle,Other male indigenous cattletotal_male_indicattle,Total indigenous cattle (male)under_one_female_indicattle,Female Indigenous cattle which are under one yearone_three_female_indicattle,Female Indigenous cattle which are between one and two & half yearsin_milk_indicattle,Female Indigenous cattle which are in milk productiondry_female_indicattle,"Female Indigenous cattle which are calved but at present not in production. Animals that cannot be calved in future are not covered under this category.
+"not_calved_female_indicattle,Female Indigenous cattle which are not calvedabove_ten_female_indicattle,Female Indigenous cattle which are above ten yearstotal_female_indicattle,Total indigenous cattle (female)total_indicattle,Total indigenous cattletotal_cattle,Total cattle which comprises both exotic and indigenousbelow_six_male_indisheep,Male indigenous sheep which are below six yearsabove_six_male_indisheep,Male indigenous sheep which are above six yearstotal_male_indisheep,Total indigenous sheep which are malebelow_six_female_indisheep,Female indigenous sheep which are below six yearsabove_six_female_indisheep,Female indigenous sheep which are above six yearstotal_female_indisheep,Total indigenous sheep which are femaletotal_indisheep,Total indigenus sheepimproved_cocks,If a cock falls in to the flock of improved hen then it is improved cockdesi_cocks,If a cock falls in to the flock of desi hen then it is desi cocktotal_cocks,Total cocks comprises both improved and desiimproved_hens,If a hen lays more than 100 eggs in a year then it is categorized as improved hendesi_hens,If a hen lays more than 100 eggs in a year then it is categorized as improved hen or else it is an desi hentotal_hens,Total hens which are the combination of improved and desi hensdesi_eggs,Desi hens which are kept for laying eggsimproved_eggs,Improved hens which are kept for laying eggstotal_eggs,Total hens which are kept for laying eggs which includes both desi and improved desi_meat,Desi birds which are kep for meatimproved_meat,Improved birds which are kep for meattotal_meat,Total birds(desi & improved) which are kept for meatunder_one_male_goat,Total male goats under one yearone_three_male_goat,Total male goats above one yeartotal_male_goat,Total goats (male)under_one_female_goat,Total female goats under one yearin_milk_goat,Goats which are in milk productiondry_female_goat,"Female goats which are calved but at present not in production. Animals that cannot be calved in future are not covered under this category.
+"not_calved_female_goat,Female goats which are not calvedtotal_female_goat,Total goats (female)total_goat,Total goats
