@@ -4,7 +4,7 @@ library(magrittr)
 library(stringr)
 
 #setwd("~/Documents/ResRA/main_app_v1/data/")
-#source("./db_details.R") # contains confidential db details
+source("./db_details.R") # contains confidential db details
 
 # loads the PostgreSQL driver
 drv <- dbDriver("PostgreSQL")

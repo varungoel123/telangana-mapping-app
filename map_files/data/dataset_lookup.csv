@@ -1,24 +1,1 @@
-code,description
-tel_apy_01_11_district,Area Production and Yield (2001-2011)
-tel_agcensus_05_crop_district,Cropping Patterns (Agriculture Census 2005-06)
-tel_agcensus_11_crop_district,Cropping Patterns (Agriculture Census 2010-11)
-tel_agcensus_11_area.dispersal_district,Dispersal of Operated Area (Agricultural Census 2010-11)
-tel_forest_cover_2013_district,Forest Cover Details 2013
-tel_agcensus_11_gross.cropped.area_district,Gross cropped Area ( Agricultural Census 2010-11)
-tel_agcensus_11_irrig.sources_district,Irrigation Sources (Agricultural Census 2010-11)
-tel_agcensus_11_irrig.status_district,Irrigation Status (Agricultural Census 2010-11)
-tel_agcensus_05_lhc_district,Land holding characteristics (Agriculture Census 2005-06)
-tel_agcensus_11_landholdings_district,Land holdings (Agriculture Census 2010-11)
-tel_agcensus_11_landuse_district,Land Use (Agricultural Census 2010-11)
-tel_land_use_11_district,Land Use (Directorate of economics and statistics) (2011)
-tel_livestock_2007_district,Livestock Census (2007)
-tel_livestock_2012_district,Livestock Census (2012)
-tel_minor_irrigation_2006_district,Minor Irrigation Census (2006)
-tel_nrega_general_details_district,NREGA basic details on the workers/employment
-tel_nrega_expenditure_district,NREGA Expenditure on different works
-tel_fertilizer_dealers_till_2013_district,Number of Fertilizer dealers till 2013
-tel_pca_census_11_district_rural,Primary Census Abstract (2011)
-tel_rkvy_12_14_district,RKVY (2012-2014)
-tel_pca_amenities_11_district_rural,Rural Amenities (Census 2011)
-tel_ground_water_stage_2011_district,Stage of Ground Water details (2011)
-tel_agcensus_11_tenancy_district,Tenancy of Land Holdings (Agricultural Census 2010-11)
+code,descriptiontel_apy_01_11_district,Area Production and Yield (2001-2011)tel_agcensus_05_crop_district,Cropping Patterns (Agriculture Census 2005-06)tel_agcensus_11_crop_district,Cropping Patterns (Agriculture Census 2010-11)tel_agcensus_11_areadispersal_district,Dispersal of Operated Area (Agricultural Census 2010-11)tel_forest_cover_2013_district,Forest Cover Details 2013tel_agcensus_11_grosscroppedarea_district,Gross cropped Area ( Agricultural Census 2010-11)tel_agcensus_11_irrigsources_district,Irrigation Sources (Agricultural Census 2010-11)tel_agcensus_11_irrigstatus_district,Irrigation Status (Agricultural Census 2010-11)tel_agcensus_05_lhc_district,Land holding characteristics (Agriculture Census 2005-06)tel_agcensus_11_landholdings_district,Land holdings (Agriculture Census 2010-11)tel_agcensus_11_landuse_district,Land Use (Agricultural Census 2010-11)tel_land_use_11_district,Land Use (Directorate of economics and statistics) (2011)tel_livestock_2007_district,Livestock Census (2007)tel_livestock_2012_district,Livestock Census (2012)tel_minor_irrigation_2006_district,Minor Irrigation Census (2006)tel_nrega_general_details_district,NREGA basic details on the workers/employmenttel_nrega_expenditure_district,NREGA Expenditure on different workstel_fertilizer_dealers_till_2013_district,Number of Fertilizer dealers till 2013tel_pca_census_11_district_rural,Primary Census Abstract (2011)tel_rkvy_12_14_district,RKVY (2012-2014)tel_pca_amenities_11_district_rural,Rural Amenities (Census 2011)tel_ground_water_stage_2011_district,Stage of Ground Water details (2011)tel_agcensus_11_tenancy_district,Tenancy of Land Holdings (Agricultural Census 2010-11)
