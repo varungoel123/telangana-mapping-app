@@ -1,19 +1,19 @@
-level_code,level_description,var_code,var_description
-state_code,state,37,Telangana
-state_code,state,38,Andhra Pradesh
-social_group,Social Group,SCHEDULED CASTE,Scheduled Castes (SC)
-social_group,Social Group,SCHEDULED TRIBES,Scheduled Tribes (ST)
-social_group,Social Group,OTHERS,Others
-social_group,Social Group,INSTITUTIONAL,Institutional 
-social_group,Social Group,ALL SOCIAL GROUPS,All Social Groups
-size_class,Size Class,Below 0.5,Below 0.5 hectares
-size_class,Size Class,0.5-1.0,Between 0.5 to 1.0 hectares
-size_class,Size Class,1.0-2.0,Between 1.0 to 2.0 hectares
-size_class,Size Class,2.0-3.0,Between 2.0 to 3.0 hectares
-size_class,Size Class,3.0-4.0,Between 3.0 to 4.0 hectares
-size_class,Size Class,4.0-5.0,Between 4.0 to 5.0 hectares
-size_class,Size Class,5.0-7.5,Between 5.0 to 7.5 hectares
-size_class,Size Class,7.5-10.0,Between 7.5 to 10.0 hectares
-size_class,Size Class,10.0-20.0,Between 10.0 to 20.0 hectares
-size_class,Size Class,20.0 & ABOVE,20.0 hectares and above
-size_class,Size Class,ALL CLASSES,All Size Classes
+"level_code","level_description","var_code","var_description"
+"state_code","state","37","Telangana"
+"state_code","state","38","Andhra Pradesh"
+"social_group","Social Group","1","Scheduled Castes (SC)"
+"social_group","Social Group","2","Scheduled Tribes (ST)"
+"social_group","Social Group","3","Others"
+"social_group","Social Group","4","Institutional "
+"social_group","Social Group","99","All Social Groups"
+"size_class","Size Class","11","Below 0.5 hectares"
+"size_class","Size Class","12","Between 0.5 to 1.0 hectares"
+"size_class","Size Class","21","Between 1.0 to 2.0 hectares"
+"size_class","Size Class","31","Between 2.0 to 3.0 hectares"
+"size_class","Size Class","32","Between 3.0 to 4.0 hectares"
+"size_class","Size Class","41","Between 4.0 to 5.0 hectares"
+"size_class","Size Class","42","Between 5.0 to 7.5 hectares"
+"size_class","Size Class","43","Between 7.5 to 10.0 hectares"
+"size_class","Size Class","51","Between 10.0 to 20.0 hectares"
+"size_class","Size Class","52","20.0 hectares and above"
+"size_class","Size Class","99","All Size Classes"
