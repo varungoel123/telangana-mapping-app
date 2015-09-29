@@ -2,3 +2,4 @@
 .Rhistory
 .RDat
 db_details.R
+shpToRemote.sh

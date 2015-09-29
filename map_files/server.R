@@ -233,6 +233,22 @@ shinyServer(function(input, output, session) {
                    options = NULL
     ) 
   })
+  
+  ##### function to generate halo for text labels 
+  ## source: http://article.gmane.org/gmane.comp.lang.r.general/147787
+  shadowtext <- function(x, y=NULL, labels, col='white', bg='black',
+                         theta= seq(pi/4, 2*pi, length.out=8), r=0.1, ... ) {
+    
+    xy <- xy.coords(x,y)
+    xo <- r*strwidth('A')
+    yo <- r*strheight('A')
+    
+    for (i in theta) {
+      text( xy$x + cos(i)*xo, xy$y + sin(i)*yo, labels, col=bg, ... )
+    }
+    text(xy$x, xy$y, labels, col=col, ... )
+  }
+  
 #   
   plotmap <- function(){
     if(is.null(input$table_name)) return()
@@ -244,7 +260,9 @@ shinyServer(function(input, output, session) {
     
     
     a<-dbGetQuery(con, output_query(),stringsAsFactors=T)
-    print(a)
+    validate(
+      need(nrow(a) !=0, "Data does not exist, please choose another variable")
+    )
     #       dbDisconnect(con)
     #       
     #       
@@ -270,7 +288,7 @@ shinyServer(function(input, output, session) {
     colcode <- findColours(class, plotclr)
     plot(distshp,xlim = distshp@bbox[1,], ylim = distshp@bbox[2,],col=alpha(colcode,1), border="black",lwd=0.5)
     plot(state_line,col="black",lwd=1, add=TRUE)
-    text(coordinates(distshp)[,1],coordinates(distshp)[,2],distlabels, cex=0.75)
+    shadowtext(coordinates(distshp)[,1],coordinates(distshp)[,2],distlabels, cex=0.75)
     title(main=input$table_var, 
           sub=input$table_name)
     
@@ -314,7 +332,7 @@ shinyServer(function(input, output, session) {
       paste0(image_name,".png")
     },
     content = function(file) {
-      png(file,width = 1000,res = 300)
+      png(file,1024,768)
       print(plotmap())
       dev.off()
     })
