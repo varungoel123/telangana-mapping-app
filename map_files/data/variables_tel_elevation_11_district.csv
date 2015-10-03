@@ -1,0 +1,4 @@
+code,description
+elevation_mean,mean of elevation
+elevation_cv,cv of elevation
+perc_elev500above,percentage of elevation above 500
